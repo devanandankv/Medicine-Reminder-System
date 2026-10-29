@@ -1,0 +1,22 @@
+{
+  "name": "Medicine Reminder",
+  "short_name": "MedReminder",
+  "description": "Medicine Reminder System",
+  "start_url": "/Medicine Reminder/login.php",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0077b6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
